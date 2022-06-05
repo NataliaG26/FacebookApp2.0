@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeItem"
+        android:icon="@drawable/icons8_home_96" />
+    <item
+        android:id="@+id/pusblishItem"
+        android:icon="@drawable/icons8_plus_100" />
+    <item
+        android:id="@+id/profileItem"
+        android:icon="@drawable/icons8_male_user_96__1_" />
+</menu>
